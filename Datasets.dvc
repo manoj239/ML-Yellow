@@ -1,6 +1,12 @@
 outs:
+<<<<<<< HEAD
 - md5: 73fb09685e71947092024a30a468a863.dir
   size: 4885
   nfiles: 2
+=======
+- md5: 87336c645f44bad2f0c6939c035cf43f.dir
+  size: 40916
+  nfiles: 3
+>>>>>>> 560d6ae
   hash: md5
   path: Datasets

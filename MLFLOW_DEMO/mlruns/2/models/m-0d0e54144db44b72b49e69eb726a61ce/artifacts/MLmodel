@@ -1,4 +1,4 @@
-artifact_path: file:c:/Users/Administrator/Desktop/ML-Yellow/MLFLOW_DEMO/mlruns/1/models/m-f3744f7766a54ffdbf2b2c71c3e79531/artifacts
+artifact_path: file:c:/Users/Administrator/Desktop/ML-Yellow/MLFLOW_DEMO/mlruns/2/models/m-0d0e54144db44b72b49e69eb726a61ce/artifacts
 flavors:
   python_function:
     env:
@@ -15,9 +15,9 @@ flavors:
     sklearn_version: 1.8.0
     skops_trusted_types: null
 mlflow_version: 3.10.1
-model_id: m-f3744f7766a54ffdbf2b2c71c3e79531
-model_size_bytes: 2566
-model_uuid: m-f3744f7766a54ffdbf2b2c71c3e79531
+model_id: m-0d0e54144db44b72b49e69eb726a61ce
+model_size_bytes: 3467
+model_uuid: m-0d0e54144db44b72b49e69eb726a61ce
 prompts: null
-run_id: c2ceb7b9b073427bb3bb4b03a7e8d7c2
-utc_time_created: '2026-04-05 16:11:43.228783'
+run_id: 2b62a5ce187942aa870240d53059e060
+utc_time_created: '2026-04-06 08:45:35.064888'
